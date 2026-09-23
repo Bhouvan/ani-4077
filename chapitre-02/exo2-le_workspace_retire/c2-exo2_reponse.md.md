@@ -1,4 +1,7 @@
-jenga info:  "\n"
+jenga info:  
+
     No .jenga workspace file found.
-jenga build:  "\n"   
+    
+jenga build: 
+
     No .jenga workspace file found.
