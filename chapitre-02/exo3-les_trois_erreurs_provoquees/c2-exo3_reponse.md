@@ -13,5 +13,5 @@ libdirs              ║ C:/msys64/ucrt64/bin/ld: cannot
             
 
                         ℹ Found 1 source file(s)
-links                 ✓ All files up to date
+links                 ✓ All files up to date                                   pas d'erreur
                     ✓ Built: Build\Bin\Debug-Windows\Essai\Essai.exe
