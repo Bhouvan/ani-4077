@@ -1,4 +1,4 @@
->>jenga info
+jenga info
     No .jenga workspace file found.
->>jenga build   
+jenga build   
     No .jenga workspace file found.
