@@ -125,7 +125,7 @@ with workspace("Model", location="."):
             optimize("Speed")
             symbols(False)
 
-            
+
 =>Somme :5e+15
 
 En configuration Debug, Le temps ecoule pour la somme d'une suite arithmetique
@@ -135,5 +135,5 @@ allant de 0 a 100 000 000 en debug en milliseconde est de 290.733
 En configuration Release,  Le temps ecoule pour la somme d'une suite arithmetique
 allant de 0 a 100 000 000 en Release en milliseconde est de 130.351
 
-La configuration debug prend ~6 millisonde de plus pour execute.
+La configuration debug prend ~160 millisonde de plus pour execute.
 ```
