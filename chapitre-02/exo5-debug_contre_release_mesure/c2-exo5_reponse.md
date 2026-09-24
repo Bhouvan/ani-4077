@@ -1,3 +1,4 @@
+```
 fichiers:
 =>src\Essai\main.cpp
 
@@ -60,3 +61,4 @@ En configuration Release,  Le temps ecoule pour la somme d'une suite arithmetiqu
 allant de 0 a 100 000 000 en Release en milliseconde est de 289.322
 
 La configuration debug prend ~6 millisonde de plus pour execute.
+```

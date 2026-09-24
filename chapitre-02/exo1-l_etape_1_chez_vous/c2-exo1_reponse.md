@@ -1,3 +1,4 @@
+```
 ->Sortie de Jenga Info
     jenga info 
 
@@ -77,3 +78,4 @@ la bibliotheque et le programme se sont trouves
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   ◀  FIN D'EXECUTION  —  termine normalement  (0.02s)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
