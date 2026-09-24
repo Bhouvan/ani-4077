@@ -50,9 +50,13 @@ fichiers:
         }
     }
 
+=>Somme :5e+15
+
 En configuration Debug, Le temps ecoule pour la somme d'une suite arithmetique
 allant de 0 a 100 000 000 en debug en milliseconde est de 295.748
 
 
-en configuration Release,  Le temps ecoule pour la somme d'une suite arithmetique
+En configuration Release,  Le temps ecoule pour la somme d'une suite arithmetique
 allant de 0 a 100 000 000 en Release en milliseconde est de 289.322
+
+La configuration debug prend ~6 millisonde de plus pour execute.
